@@ -91,7 +91,7 @@ Consider the following questions:
 Log in to the [module discussion forum]({{.DiscussionURL}}) and make one initial post and two responses.
 Refer to the [Discussion Forum Instructions and Rubric](#discussion-forum-instructions-and-rubric) for instructions how to compose posts to the discussion forum, and how they will be graded.
 
-**The initial post for this module are due by {{DiscussionInitialDeadline .}} and all response posts are due by {{DiscussionResponseDeadline .}}.**
+**The initial post for this module is due by {{DiscussionInitialDeadline .}} and all response posts are due by {{DiscussionResponseDeadline .}}.**
 
 {{- end}}
 
